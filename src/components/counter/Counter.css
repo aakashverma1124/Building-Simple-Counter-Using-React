@@ -1,3 +1,7 @@
+body {
+    margin: 30px;
+}
+
 button {
     font-size: 20px;
     background-color: green;
@@ -7,6 +11,13 @@ button {
 }
 
 .count {
-    font-size: 50px;
+    font-size: 150px;
     padding: 30px;
+}
+
+.reset {
+    font-size: 24;
+    background-color: darkred;
+    color: white;
+    width: 200px;
 }
