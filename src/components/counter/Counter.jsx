@@ -10,7 +10,8 @@ class Counter extends Component {
         this.state = {
             counter : 0
         }
-
+        // The this object of the bound function is associated with the specified object,
+        // and has the specified initial parameters
         this.increment = this.increment.bind(this);
     }
 
