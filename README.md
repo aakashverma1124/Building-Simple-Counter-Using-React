@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Output of whole project is as follows:
 
-<img src = photo.png">
+<img src = "photo.png">
 
 ## Available Scripts
 
